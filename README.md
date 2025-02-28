@@ -1,16 +1,18 @@
 ## Hi there 👋
+<h1 align="center">¡Hola! Soy Sara 👋</h1>
+<h3 align="center">📚 Estudiante de Desarrollo Web </h3>
 
-<!--
-**Saralv9/Saralv9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌟 Sobre mí  
+- 🎓 Actualmente estudiando **Desarrollo de aplicaciones web**  
+- 🌱 Aprendiendo **HTML, CSS, JavaScript, Java]**  
+- 🔍 Interesado en **Desarrollo web, Ciberseguridad**  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías en las que me estoy formando  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=light" />
+</div>
+
+---
