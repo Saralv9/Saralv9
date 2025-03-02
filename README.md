@@ -10,9 +10,3 @@
 - 🔍 Interesado en **Desarrollo web, Ciberseguridad**  
 ---
 
-### 🚀 Tecnologías en las que me estoy formando  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=light" />
-</div>
-
----
