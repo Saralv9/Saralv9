@@ -6,7 +6,7 @@
 
 ### 🌟 Sobre mí  
 - 🎓 Actualmente estudiando **Desarrollo de aplicaciones web**  
-- 🌱 Aprendiendo **HTML, CSS, JavaScript, Java, SQL**  
+- 🌱 Aprendiendo **HTML, CSS, JavaScript, Java, SQL, AWS**  
 - 🔍 Interesado en **Desarrollo web, Ciberseguridad**  
 ---
 
